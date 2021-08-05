@@ -2,7 +2,7 @@
 const Footer = () => (
     <footer>
         <div>
-            <p>lorem zudkzufkuzfkgjkzgfjgjkfgkqjfkjqsfkjqbjkf</p>
+            <p>FOOTER</p>
         </div>
     </footer>
 )
